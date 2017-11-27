@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="travaux_miniers_souterrains.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="44.8"
+     inkscape:cx="4.506184"
+     inkscape:cy="8.3107867"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76667)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0,292.76549 4.2345144,0.006 L 2.1024925,297 Z"
+       id="path4592"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 0.47837611,294.11793 3.29547989,-0.0118 -0.3071056,1.73043 -2.63169432,0.006 z"
+       id="path4515"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00843645;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.003879,8.3690171 C 2.6928381,6.8645021 2.4421255,5.6297599 2.4467398,5.6251456 c 0.00951,-0.00951 11.1872672,-0.054076 11.1982372,-0.044651 0.0039,0.00335 -0.212796,1.2450913 -0.481555,2.7594172 l -0.488652,2.7533192 -4.5526811,0.0056 -4.552681,0.0056 z"
+       id="path4517"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.26458333,0,292.76667)" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4519"
+       cx="1.3170109"
+       cy="296.12003"
+       rx="0.17127044"
+       ry="0.14174107" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4519-2"
+       cx="2.9647508"
+       cy="296.12003"
+       rx="0.17127046"
+       ry="0.14174107" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0.4547526,293.93485 3.342727,-0.0118 -0.1358352,-0.64965 -0.2834823,-0.0118 -0.035435,0.17127 -0.1004001,-0.006 -0.076776,-0.23033 -0.7677642,-0.0295 -0.00591,0.25986 -0.1417411,-0.0118 -0.064965,-0.21852 -0.194894,0.0531 -0.059059,0.58467 H 1.6536458 L 1.54734,293.2379 l -0.2067057,-0.0295 -0.053157,0.23033 -0.088588,0.15355 -0.21261158,-0.0473 -0.005906,-0.37207 -0.18308219,-0.0472 -0.14764697,0.0886 z"
+       id="path4536"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  </g>
+</svg>
